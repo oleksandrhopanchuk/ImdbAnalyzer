@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Solution Items/" />
+  <Project Path="../ImdbAnalyzer.Data/ImdbAnalyzer.Data.csproj" Id="019c01f6-3621-4ec2-9269-17d56dc62ed3" />
+  <Project Path="../ImdbAnalyzer.UI/ImdbAnalyzer.UI.csproj" Id="e2cdcc71-7b9a-4fd4-8b6c-bc89df11e46f" />
+  <Project Path="ImdbAnalyzer.Domain/ImdbAnalyzer.Domain.csproj" Id="17610401-2d1f-450a-b6ad-c55defe32c9c" />
+</Solution>
